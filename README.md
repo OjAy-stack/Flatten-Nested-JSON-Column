@@ -53,24 +53,29 @@ A single row from `sales_orders.csv`:
 
 ```json
 [
+  "[
   {
-    "product": {
-      "product_name": "WWI Desktop PC1.80 E1801 Silver",
-      "product_price": 269.9
+    ""product"": {
+      ""product_name"": ""MGS Age of Empires II Gold Edition2009 E172"",
+      ""product_price"": 32
     },
-    "quantity": 1
+    ""quantity"": 3
   },
-  ...
-]
-## 🛠️ Tools Used
-
-- **Microsoft Excel**
-  - PivotTables & Charts
-  - Slicers
-  - Conditional Formatting
-- **VBA Macros**
-  - Automatically highlights highest revenue month
-  - Works in sync with slicer selection
+  {
+    ""product"": {
+      ""product_name"": ""A. Datum Bridge Digital Camera M300 Pink"",
+      ""product_price"": 186.9
+    },
+    ""quantity"": 2
+  },
+  {
+    ""product"": {
+      ""product_name"": ""WWI Desktop PC1.80 E1801 Silver"",
+      ""product_price"": 269.9
+    },
+    ""quantity"": 1
+  }
+]"
 
 ### 🔄 Becomes:
 
