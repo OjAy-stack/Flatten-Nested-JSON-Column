@@ -76,6 +76,7 @@ A single row from `sales_orders.csv`:
     ""quantity"": 1
   }
 ]"
+```
 
 ### 🔄 Becomes:
 
@@ -91,3 +92,13 @@ git clone https://github.com/OjAy-stack/Flatten-Nested-JSON-Column.git
 cd Flatten-Nested-JSON-Column
 pip install pandas
 python flatten_json_csv.py
+```
+## 🤝 Let’s Connect
+
+📍 [LinkedIn](https://www.linkedin.com/in/aojueromi)
+
+---
+
+## 💬 Feedback?
+
+Open an issue or reach out! I love feedback and collaboration with fellow data analysts.
