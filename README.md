@@ -82,6 +82,8 @@ A single row from `sales_orders.csv`:
 
 | order_number | order_date | fulfillment | product_name                    | product_price | quantity |
 |--------------|------------|-------------|----------------------------------|---------------|----------|
+| 387005       | 1/22/2016  | In store    | MGS Age of Empires II Gold Edition2009 E172 | 32         | 3        |
+| 387005       | 1/22/2016  | In store    | A. Datum Bridge Digital Camera M300 Pink | 186.9         | 2        |
 | 387005       | 1/22/2016  | In store    | WWI Desktop PC1.80 E1801 Silver | 269.9         | 1        |
 ---
 
@@ -93,6 +95,15 @@ cd Flatten-Nested-JSON-Column
 pip install pandas
 python flatten_json_csv.py
 ```
+## 💡 About This Project
+
+Hi, I’m **Ayomikun Ojueromi**, a data analyst who loves storytelling through visuals. This ETL project allowed me to explore and transform nested JSON data into a structured CSV format. Through this project, I showcased my skills in:
+
+- Data extraction, transformation, and loading (ETL)
+- Handling and processing nested JSON data
+- Data wrangling and cleaning
+- Preparing data for analysis and visualization
+
 ## 🤝 Let’s Connect
 
 📍 [LinkedIn](https://www.linkedin.com/in/aojueromi)
