@@ -16,7 +16,14 @@ Built using **Python** and **Pandas**, this mini ETL tool does the following:
 - 📤 Exports a flattened CSV for analysis
 
 ---
+## 🛠️ Tools Used
 
+- **Python 3.13**
+  - pandas
+  - json
+- **pandas**
+  - Data manipulation and transformation
+    
 ### 🔍 Key Transformations
 
 | From Column | Type          | Description                            |
