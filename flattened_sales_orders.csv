@@ -1,0 +1,231 @@
+order_number,order_date,fulfillment,quantity,product.product_name,product.product_price
+387005,22/01/2016,In store,3,MGS Age of Empires II Gold Edition2009 E172,32
+387005,22/01/2016,In store,2,A. Datum Bridge Digital Camera M300 Pink,186.9
+387005,22/01/2016,In store,1,WWI Desktop PC1.80 E1801 Silver,269.9
+395005,30/01/2016,In store,5,Contoso DVD 60 DVD Storage Binder L20 Black,22.89
+395005,30/01/2016,In store,5,SV DVD 38 DVD Storage Binder E25 Silver,9.99
+423011,27/02/2016,In store,1,Contoso 16GB Mp5 Player M1600 Blue,199.9
+600006,22/08/2016,Online,1,Contoso Water Heater 2.6GPM E0900 Green,508
+600006,22/08/2016,Online,1,The Phone Company Pen Touch Screen Phones-2.6 M320 Black,290
+600006,22/08/2016,Online,6,Contoso USB Wave Multi-media Keyboard E280 Black,15.9
+600006,22/08/2016,Online,7,SV 16xDVD M320 Black,119
+652002,13/10/2016,In store,8,Contoso Genuine Leather Grip Belt E322 Black,77.99
+666011,27/10/2016,In store,7,WWI Wireless Transmitter and Bluetooth Headphones X250 Silver,249.99
+666011,27/10/2016,In store,1,Adventure Works Desktop PC3.0 MS300 Silver,469
+666011,27/10/2016,In store,2,SV 16xDVD M310 Black,129
+701003,01/12/2016,In store,1,Adventure Works Coffee Maker 4C E080 Black,129.9
+728013,28/12/2016,In store,3,SV DVD 58 DVD Storage Binder M55 Black,13.89
+728013,28/12/2016,In store,2,Proseware Wall Lamp E0315 Blue,101.99
+728013,28/12/2016,In store,3,Fabrikam Coffee Maker Auto 5C E090 Black,163
+744000,13/01/2017,In store,6,WWI Wireless Bluetooth Stereo Headphones M170 Pink,120
+744000,13/01/2017,In store,3,Contoso Phone with 13-Number Memory (210) M301 Grey,16.99
+744000,13/01/2017,In store,6,SV 8xDVD E100 Black,69
+744000,13/01/2017,In store,2,Litware Microwave 1.0CuFt E110 Silver,139.99
+755003,24/01/2017,Online,2,Proseware Laptop15.4W M518 Black,758
+755003,24/01/2017,Online,2,Contoso Water Heater 1.5GPM E0800 Grey,257.5
+755003,24/01/2017,Online,5,Contoso Expandable 2-Handset Cordless Phone System M205 Grey,40.19
+786002,24/02/2017,In store,3,WWI 2GB Spy Video Recorder Pen M300 White,181
+799005,09/03/2017,In store,1,WWI Desktop PC1.80 E1800 Black,229.9
+911003,29/06/2017,In store,3,Fabrikam Microwave 0.8CuFt E0800 Silver,94.99
+911003,29/06/2017,In store,3,Contoso Water Heater 2.6GPM E0900 Blue,508
+1020007,16/10/2017,In store,3,Contoso DVD 7-Inch Player Portable E200 Silver,109.99
+1020007,16/10/2017,In store,2,MGS Hand Games for Office worker L299 Black,16.89
+1020007,16/10/2017,In store,1,Adventure Works Laptop15.4W M1548 Black,758
+1020007,16/10/2017,In store,3,Contoso Water Heater 1.5GPM E0800 White,257.5
+1023001,19/10/2017,Online,5,WWI 2GB Pulse Smart pen M100 Black,199.95
+1023001,19/10/2017,Online,2,A. Datum Super-zoom Digital Camera X300 Green,290
+1032012,28/10/2017,In store,1,WWI 2GB Pulse Smart pen M100 Silver,199.95
+1032012,28/10/2017,In store,1,WWI Projector 1080p LCD86 Black,2295
+1039011,04/11/2017,In store,1,Contoso 16GB Mp5 Player M1600 Red,199.9
+1095040,30/12/2017,In store,1,Contoso ADSL Modem Splitter/Filter X 3 E300 Black,52.9
+1095040,30/12/2017,In store,3,"Proseware Color Ink Jet Fax, Copier, Phone M250 Black",159
+1112009,16/01/2018,In store,1,SV DVD 9-Inch Player Portable M300 White,159.99
+1121013,25/01/2018,Online,1,Contoso 16GB Mp5 Player M1600 Red,199.9
+1153005,26/02/2018,In store,1,Contoso Battery charger - bike E200 White,19.9
+1153005,26/02/2018,In store,2,WWI 1GB Pulse Smart pen E50 White,149.95
+1155018,28/02/2018,In store,10,NT Wireless Bluetooth Stereo Headphones M402 Green,99.99
+1231012,15/05/2018,In store,2,Fabrikam Social Videographer 1/2'' 3mm E300 Black,170
+1254000,07/06/2018,In store,2,Adventure Works Desktop PC1.80 ED182 White,499.9
+1254000,07/06/2018,In store,3,WWI Desktop PC2.33 X2330 Black,919
+1255008,08/06/2018,In store,1,The Phone Company Touch Screen Phones 5-Wire/Built-in M500 Grey,256
+1276005,29/06/2018,In store,2,The Phone Company PDA GPS Phone 4.7 inch L950 Silver,368
+1319033,11/08/2018,In store,1,Fabrikam Laptop15 M5000 White,699
+1321003,13/08/2018,In store,6,Adventure Works Desktop PC1.80 ED182 Brown,499.9
+1321003,13/08/2018,In store,3,Adventure Works Desktop PC2.33 XD233 Black,969
+1321003,13/08/2018,In store,1,Adventure Works Desktop PC1.80 ED180 Silver,369
+1330005,22/08/2018,In store,9,Contoso 3 Handset Cordless Phone System  E30 Black,16.99
+1330005,22/08/2018,In store,2,SV DVD Player M140 Gold,60.99
+1330005,22/08/2018,In store,2,Contoso DVD 60 DVD Storage Binder L20 Silver,22.89
+1331016,23/08/2018,Online,2,Contoso Primary Extended Capacity Battery Pack - notebook battery X100 Grey,33.9
+1340009,01/09/2018,In store,8,Headphone Adapter for Contoso Phone E130 White,9.99
+1340009,01/09/2018,In store,6,The Phone Company Touch Screen Phones 26-1.4 M250 Black,268
+1357019,18/09/2018,Online,5,Contoso 4-Line Corded Cordless Telephone M203 Black,32.99
+1371011,02/10/2018,In store,1,Adventure Works Desktop PC1.80 ED182 Brown,499.9
+1371011,02/10/2018,In store,1,MGS Age of Mythology 2009 E158,32
+1371011,02/10/2018,In store,3,Contoso Water Heater 4.0GPM M1250 Blue,791
+1371011,02/10/2018,In store,1,WWI CRT17 E106 Black,99
+1371011,02/10/2018,In store,8,Adventure Works 52 LCD HDTV X790W Black,1592.2
+1371011,02/10/2018,In store,3,SV Car Video LCD7 M7002 Silver,369
+1371011,02/10/2018,In store,8,SV DVD Recorder L200 Black,219
+1374006,05/10/2018,In store,4,NT Wireless Transmitter and Bluetooth Headphones M150 Blue,149.99
+1374006,05/10/2018,In store,1,Adventure Works Desktop PC1.80 ED180 Silver,369
+1374006,05/10/2018,In store,2,Contoso Private Automatic Branch Exchange M65 Black,38.99
+1374006,05/10/2018,In store,4,Adventure Works 15.6 LCD TV M130W Brown,299.99
+1388011,19/10/2018,Online,10,The Phone Company PDA Wifi 3.5-inch M200 Silver,280
+1388011,19/10/2018,Online,2,NT Wireless Bluetooth Stereo Headphones M402 Purple,99.99
+1393022,24/10/2018,In store,3,WWI Desktop PC2.33 X2330 White,919
+1394029,25/10/2018,Online,6,SV DVD External DVD Burner M200 Black,57.88
+1394029,25/10/2018,Online,3,Fabrikam Refrigerator 1.7CuFt E1200 Green,129.99
+1410029,10/11/2018,In store,1,WWI Projector 1080p DLP86 Silver,2499
+1428004,28/11/2018,In store,1,SV DVD 55DVD Storage Binder M56 Black,12.66
+1428004,28/11/2018,In store,7,SV DVD 12-Inch Player Portable M400 White,179.99
+1428004,28/11/2018,In store,1,Contoso General Carrying Case E304 Blue,19.99
+1428004,28/11/2018,In store,1,Contoso Car power adapter M90 White,19.95
+1428004,28/11/2018,In store,1,WWI Wireless Transmitter and Bluetooth Headphones X250 White,249.99
+1436011,06/12/2018,In store,1,Contoso Hybrid system M60 Black,28.99
+1436011,06/12/2018,In store,2,Adventure Works Laptop15.4W M1548 Red,758
+1436011,06/12/2018,In store,1,The Phone Company Microsoft Windows Mobile M200 Black,229
+1450050,20/12/2018,Online,1,Reusable Phone Screen Protector E120,2.94
+1456008,26/12/2018,In store,3,SV DVD 38 DVD Storage Binder E25 Black,9.99
+1456008,26/12/2018,In store,6,Contoso General Carrying Case E304 Blue,19.99
+1456008,26/12/2018,In store,3,SV DVD 7-Inch Player Portable E200 Silver,109.99
+1457067,27/12/2018,Online,2,The Phone Company Touch Screen Phone 1600 TFT-2.2 L200 Black,529
+1464006,03/01/2019,Online,1,SV DVD Player M130 Grey,59.99
+1464006,03/01/2019,Online,4,MGS Age of Mythology E118,28
+1470028,09/01/2019,In store,1,The Phone Company Touch Screen Phones 4-Wire/ Built-in M205 Gold,268
+1470028,09/01/2019,In store,1,Contoso Screen 80in E080 White,109
+1470028,09/01/2019,In store,3,NT Bluetooth Stereo Headphones E52 Blue,25.69
+1470028,09/01/2019,In store,6,MGS King& Myths: The Age Collection M340,72.45
+1476005,15/01/2019,In store,2,The Phone Company PDA Phone Unlocked 3.5 inches M530 Black,268
+1487027,26/01/2019,In store,2,The Phone Company Smart phones Expert M400 Grey,300
+1487027,26/01/2019,In store,3,Fabrikam Microwave 1.0CuFt E1100 Black,139.99
+1487027,26/01/2019,In store,1,Fabrikam Refrigerator 3.2CuFt E1600 Orange,279.99
+1487027,26/01/2019,In store,3,Contoso DVD 60 DVD Storage Binder L20 Silver,22.89
+1492017,31/01/2019,In store,2,The Phone Company Touch Screen Phones 4-Wire/ Built-in M205 Black,268
+1492017,31/01/2019,In store,4,MGS Gears of War 2008 M450,34
+1492017,31/01/2019,In store,6,Contoso Water Heater 4.3GPM M1250 Yellow,877.5
+1501025,09/02/2019,In store,3,A. Datum SLR Camera X140 Pink,627
+1501025,09/02/2019,In store,2,Contoso DVD 60 DVD Storage Binder L20 Red,22.89
+1501025,09/02/2019,In store,4,Proseware Photo Inkjet Printer E290 Black,102
+1501025,09/02/2019,In store,2,Contoso Water Heater 4.0GPM M1250 Grey,791
+1504008,12/02/2019,In store,5,The Phone Company Finger Touch Screen Phones M30 Gold,199
+1504008,12/02/2019,In store,8,NT Bluetooth Active Headphones E202 Red,37.95
+1504008,12/02/2019,In store,1,WWI Desktop PC1.80 E1801 Brown,269.9
+1519031,27/02/2019,In store,1,Contoso DVD 15-Inch Player Portable L200 White,289.99
+1528014,08/03/2019,In store,2,MGS Age of Empires II: The Age of Kings E126,46.8
+1528014,08/03/2019,In store,3,SV DVD 48 DVD Storage Binder M50 Silver,17.99
+1587003,06/05/2019,In store,1,MGS Flight Simulator X M250,70.13
+1599043,18/05/2019,In store,1,WWI LCD22W M2003 Black,679
+1599043,18/05/2019,In store,8,Adventure Works Wall Lamp E3150 Black,101.99
+1599043,18/05/2019,In store,1,WWI Floor Lamp M215 Black,339
+1599043,18/05/2019,In store,1,WWI Projector 720p DLP56 Silver,999
+1599043,18/05/2019,In store,4,Adventure Works 52 LCD HDTV X590 Silver,2899.99
+1618024,06/06/2019,In store,2,Contoso Expandable 2-Handset Cordless Phone System M205 White,40.19
+1618024,06/06/2019,In store,1,The Phone Company Touch Screen Phones 4-Wire/On-wall M302 Gold,289
+1625021,13/06/2019,In store,2,SV DVD 60 DVD Storage Binder L20 Black,22.89
+1625021,13/06/2019,In store,2,WWI 2GB Pulse Smart pen M100 White,199.95
+1625021,13/06/2019,In store,1,Contoso Travel Charger for S-Series Battery E302 Black,59.99
+1625021,13/06/2019,In store,3,MGS Hand Games women M400 Silver,8.99
+1634000,22/06/2019,In store,3,Adventure Works 13 Color TV E25 White,119.99
+1634000,22/06/2019,In store,2,MGS Hand Games for 12-16 boys E600 Yellow,4.99
+1634000,22/06/2019,In store,4,WWI 1GB Digital Voice Recorder Pen E100 Red,156
+1639015,27/06/2019,In store,7,MGS Halo 2 for Windows Vista M220,70.13
+1639015,27/06/2019,In store,2,Fabrikam Budget Moviemaker 2/3'' 17mm E100 Grey,410
+1639015,27/06/2019,In store,3,WWI 2GB Spy Video Recorder Pen M300 Purple,181
+1639015,27/06/2019,In store,3,MGS Hand Games for students E400 Silver,6.99
+1639015,27/06/2019,In store,2,Contoso Expandable 4-Handset Cordless Phone System M206 Black,43.81
+1639015,27/06/2019,In store,8,Adventure Works Desktop PC1.60 ED160 Silver,269.95
+1639015,27/06/2019,In store,4,MGS Zoo Tycoon 2 E108,56
+1657003,15/07/2019,In store,3,MGS Hand Games men M300 Red,6.89
+1657003,15/07/2019,In store,6,WWI Desktop PC2.33 X2330 Silver,919
+1666019,24/07/2019,In store,1,MGS Train Simulator E124,50.54
+1668015,26/07/2019,In store,2,Contoso 4G MP3 Player E400 Black,59.99
+1669018,27/07/2019,In store,6,Contoso Conversion Lens M550 Blue,205
+1669018,27/07/2019,In store,1,The Phone Company Touch Screen Phones - CRT M11 Grey,189
+1669018,27/07/2019,In store,4,SV DVD Player M120 White,58.99
+1680019,07/08/2019,In store,3,Adventure Works 13 Color TV E25 Silver,119.99
+1701018,28/08/2019,In store,1,Adventure Works 40 LCD HDTV M690 Black,1184.97
+1701018,28/08/2019,In store,1,MGS Zoo Tycoon 2: African Adventure 2008 E136,43
+1709012,05/09/2019,Online,2,Contoso Phone Tough Skin Case E140 Black,23.72
+1711012,07/09/2019,In store,4,Reusable Phone Screen Protector E120,2.94
+1711012,07/09/2019,In store,7,"MGS Age of Empires, 2009 E182",32
+1715004,11/09/2019,In store,4,SV DVD 14-Inch Player Portable L100 Silver,259.99
+1715004,11/09/2019,In store,4,Proseware Office Jet Wireless All-in-One Inkjet Printer M600 Grey,190
+1715004,11/09/2019,In store,1,MGS MechWarrior 4: Vengeance X800,104.89
+1731020,27/09/2019,Online,6,MGS Kings & Myths: The Age Collection2009 E147,43
+1735000,01/10/2019,In store,2,NT Wireless Transmitter and Bluetooth Headphones M150 Red,149.99
+1737027,03/10/2019,In store,3,WWI Desktop PC1.80 E1800 Brown,229.9
+1737027,03/10/2019,In store,3,Contoso SLR Camera X143 Silver,646
+1737027,03/10/2019,In store,7,A. Datum Ultra Compact Digital Camera M190 Silver,165
+1739033,05/10/2019,In store,1,The Phone Company PDA Palm 4.7 inch L850 Silver,398
+1739033,05/10/2019,In store,8,WWI Desktop PC1.80 E1800 White,229.9
+1739033,05/10/2019,In store,3,WWI Stereo Bluetooth Headphones New Generation M370 Orange,132.99
+1751011,17/10/2019,In store,1,NT Wireless Transmitter and Bluetooth Headphones M150 Red,149.99
+1751011,17/10/2019,In store,2,MGS Freelancer E113,28
+1751011,17/10/2019,In store,1,Contoso Conversion Lens M550 Silver,205
+1753031,19/10/2019,In store,1,WWI 1GBPulse Smart pen E50 Black,149.95
+1753031,19/10/2019,In store,3,Contoso DVD Player M100 Black,56.99
+1769017,04/11/2019,In store,4,Adventure Works 19 Color Digital TV E35 Black,143.4
+1769017,04/11/2019,In store,3,Adventure Works Desktop PC1.60 ED160 Brown,269.95
+1779006,14/11/2019,In store,7,Contoso Finger Touch Screen Phones M30 Black,199
+1798015,03/12/2019,In store,1,The Phone Company Microsoft Windows Mobile M200 White,229
+1798015,03/12/2019,In store,8,Fabrikam Microwave 1.5CuFt X1100 Black,665.94
+1800023,05/12/2019,In store,9,Proseware High Speed Laser M2000 Green,209
+1812007,17/12/2019,In store,9,A. Datum SLR Camera 35 X358 Orange,588
+1812007,17/12/2019,In store,4,Adventure Works Desktop PC1.80 ED182 Brown,499.9
+1813002,18/12/2019,In store,8,Contoso DVD 38 DVD Storage Binder E25 Red,9.99
+1813002,18/12/2019,In store,7,MGS Hand Games for students E400 Black,6.99
+1813002,18/12/2019,In store,7,The Phone Company Smart phones Unlocked International M800 Grey,310
+1813002,18/12/2019,In store,3,Fabrikam Business Videographer 1'' 25mm M600 Black,888
+1820019,25/12/2019,Online,5,Headphone Adapter for Contoso Phone E130 White,9.99
+1820019,25/12/2019,Online,8,Proseware Wireless Photo All-in-One Printer M390 Grey,188
+1820019,25/12/2019,Online,5,SV DVD 7-Inch Player Portable E200 Silver,109.99
+1820019,25/12/2019,Online,1,WWI 2GB Pulse Smart pen M100 White,199.95
+1820019,25/12/2019,Online,3,Adventure Works Desktop PC2.30 MD230 White,599
+1827003,01/01/2020,In store,5,WWI 4GB Video Recording Pen X200 Pink,296
+1827003,01/01/2020,In store,7,Contoso SLR Camera 35 X358 Pink,568
+1828058,02/01/2020,In store,4,WWI LCD24 X300 White,819
+1828058,02/01/2020,In store,1,WWI Wireless Transmitter and Bluetooth Headphones X250 Silver,249.99
+1834023,08/01/2020,In store,1,Contoso DVD Recorder L200 Black,219
+1836002,10/01/2020,Online,1,Proseware LCD19W M100 White,179
+1843003,17/01/2020,In store,5,NT Wireless Bluetooth Stereo Headphones E302 Silver,40.55
+1849000,23/01/2020,In store,2,SV DVD 48 DVD Storage Binder M50 Black,17.99
+1849000,23/01/2020,In store,1,Contoso Water Heater 4.3GPM M1250 Grey,877.5
+1849000,23/01/2020,In store,1,Contoso In front of Centrex L15 Grey,46.99
+1849000,23/01/2020,In store,1,Contoso Original K1m Li-Ion Standard Battery E170 Silver,4.06
+1849000,23/01/2020,In store,5,The Phone Company Smart phones 6-LINE SCREEN M21 Black,230
+1850011,24/01/2020,In store,6,Contoso Touch Screen Phones Infrared M901 Black,300
+1850011,24/01/2020,In store,10,SV 22xDVD M600 Silver,129.9
+1862001,05/02/2020,In store,5,WWI Desktop PC1.60 E1600 Black,219.95
+1862001,05/02/2020,In store,4,Contoso DVD Movies E100 Yellow,12.99
+1862001,05/02/2020,In store,2,Contoso Touch Screen Phones  - LCD M12 Black,200
+1864024,07/02/2020,In store,1,Contoso Mini Battery Charger Kit E320 White,24.99
+1864024,07/02/2020,In store,4,Proseware Office Jet Wireless All-in-One Inkjet Printer M600 White,190
+1864024,07/02/2020,In store,1,Contoso DVD Player M130 Grey,59.99
+1883038,26/02/2020,Online,3,WWI 2GB Pulse Smart pen M100 White,199.95
+1885000,28/02/2020,In store,3,Adventure Works Desktop PC2.30 MD230 Black,599
+1885000,28/02/2020,In store,2,Headphone Adapter for Contoso Phone E130 White,9.99
+1885025,28/02/2020,In store,1,Contoso Phone Tough Skin Case E140 White,23.72
+1885025,28/02/2020,In store,10,Adventure Works Desktop PC2.33 XD233 Brown,969
+1893028,07/03/2020,In store,3,Contoso Digital Cameras Lightweight Tripod E316 White,52.13
+1893028,07/03/2020,In store,3,Adventure Works LCD24 X300 Black,819
+1947015,30/04/2020,In store,9,The Phone Company PDA GPS Phone 3.5 inch M910 Black,268
+1983004,05/06/2020,In store,8,Adventure Works Desktop PC1.80 ED182 White,499.9
+1983004,05/06/2020,In store,2,WWI Desktop PC3.0 M0300 Silver,349
+1983004,05/06/2020,In store,1,SV DVD 38 DVD Storage Binder E25 Black,9.99
+2144004,13/11/2020,In store,4,Fabrikam Laptop10.1 M0101 Silver,384.9
+2144004,13/11/2020,In store,1,Adventure Works Desktop PC1.80 ED180 Brown,369
+2144004,13/11/2020,In store,3,The Phone Company PDA Wifi 3.5-inch M200 Silver,280
+2152009,21/11/2020,Online,1,Contoso Hybrid system M60 Grey,28.99
+2152009,21/11/2020,Online,4,Contoso DVD 60 DVD Storage Binder L20 Black,22.89
+2152009,21/11/2020,Online,1,Litware Home Theater System 7.1 Channel X711 Silver,1109
+2152009,21/11/2020,Online,2,SV DVD 60 DVD Storage Binder L20 Red,22.89
+2152009,21/11/2020,Online,4,WWI 1GB Digital Voice Recorder Pen E100 White,156
+2152009,21/11/2020,Online,4,Contoso Touch Stylus Pen E150 Silver,9.99
+2152009,21/11/2020,Online,3,SV DVD External DVD Burner M200 Blue,57.88
+2165005,04/12/2020,In store,1,Contoso Pen Touch Screen Phones M320 Black,290
+2175000,14/12/2020,In store,2,The Phone Company Smart phones without camera E100 Grey,129
+2175000,14/12/2020,In store,4,The Phone Company PDA Phone Unlocked 3.7 inches M510 White,238
+2175000,14/12/2020,In store,3,Fabrikam Laptop10.1 M0101 Silver,384.9
+2175000,14/12/2020,In store,4,SV DVD 14-Inch Player Portable L100 White,259.99
+2192014,31/12/2020,In store,10,WWI Desktop PC1.80 E1801 Black,269.9
