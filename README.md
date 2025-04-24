@@ -55,6 +55,16 @@ A single row from `sales_orders.csv`:
   },
   ...
 ]
+## 🛠️ Tools Used
+
+- **Microsoft Excel**
+  - PivotTables & Charts
+  - Slicers
+  - Conditional Formatting
+- **VBA Macros**
+  - Automatically highlights highest revenue month
+  - Works in sync with slicer selection
+
 ### 🔄 Becomes:
 
 | order_number | order_date | fulfillment | product_name                    | product_price | quantity |
