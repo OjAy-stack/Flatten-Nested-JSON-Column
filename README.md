@@ -1,6 +1,6 @@
 # ETL Flatten Nested JSON Column
 
-This Python project transforms a CSV file with a nested JSON column (`line_items`) into a flat table where each nested item is unpacked into its own row — perfect for analysis and visualisation.
+This Python project transforms a CSV file with a nested JSON column (`line_items`) into a flat table where each nested item is unpacked into its own row, perfect for analysis and visualisation.
 
 The data simulates **sales orders** where multiple products are stored in a single row as a JSON array. The script extracts each product into a clean row format with associated metadata like order number, date, and fulfillment channel.
 
